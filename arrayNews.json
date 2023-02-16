@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "Novo parque é inaugurado na cidade",
+    "descricao": "A prefeitura inaugura o novo parque da cidade, com diversas atrações para todas as idades.",
+    "imagem": "https://exemplo.com/parque.jpg",
+    "data_criacao": "2022-02-10T00:00:00-03:00"
+  },
+  {
+    "titulo": "Acidente grave na rodovia",
+    "descricao": "Um acidente envolvendo três veículos deixou quatro pessoas feridas na rodovia BR-101.",
+    "imagem": "https://exemplo.com/acidente.jpg",
+    "data_criacao": "2022-02-09T00:00:00-03:00"
+  },
+  {
+    "titulo": "Novo restaurante é inaugurado no centro",
+    "descricao": "O novo restaurante traz pratos gourmet e uma vista deslumbrante da cidade.",
+    "imagem": "https://exemplo.com/restaurante.jpg",
+    "data_criacao": "2022-02-08T00:00:00-03:00"
+  },
+  {
+    "titulo": "Inscrições abertas para curso de programação",
+    "descricao": "A escola de programação Code Academy abre inscrições para curso intensivo de programação.",
+    "imagem": "https://exemplo.com/programacao.jpg",
+    "data_criacao": "2022-02-07T00:00:00-03:00"
+  },
+  {
+    "titulo": "Novo livro do autor best-seller é lançado",
+    "descricao": "O novo livro do autor best-seller João Silva é lançado, com uma história envolvente e emocionante.",
+    "imagem": "https://exemplo.com/livro.jpg",
+    "data_criacao": "2022-02-06T00:00:00-03:00"
+  },
+  {
+    "titulo": "Polícia prende suspeito de roubo a banco",
+    "descricao": "A polícia prendeu um suspeito de roubo a banco após perseguição e tiroteio no centro da cidade.",
+    "imagem": "https://exemplo.com/policial.jpg",
+    "data_criacao": "2022-02-05T00:00:00-03:00"
+  },
+  {
+    "titulo": "Chuvas intensas causam alagamentos em diversos bairros",
+    "descricao": "As chuvas intensas causaram alagamentos em diversos bairros da cidade, e muitos moradores ficaram desalojados.",
+    "imagem": "https://exemplo.com/chuva.jpg",
+    "data_criacao": "2022-02-04T00:00:00-03:00"
+  },
+  {
+    "titulo": "Empresa X anuncia novo produto",
+    "descricao": "A empresa X anunciou o lançamento de seu novo produto, que promete revolucionar o mercado.",
+    "imagem": "https://exemplo.com/novo_produto.jpg",
+    "data_criacao": "2022-02-15T10:30:00-03:00"
+  },
+  {
+    "titulo": "Governo anuncia aumento de impostos",
+    "descricao": "O governo anunciou um aumento de impostos sobre diversos produtos, alegando a necessidade de equilibrar as contas públicas.",
+    "imagem": "https://exemplo.com/aumento_impostos.jpg",
+    "data_criacao": "2022-02-14T14:20:00-03:00"
+  }
+]
